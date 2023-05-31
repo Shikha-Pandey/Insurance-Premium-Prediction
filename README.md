@@ -26,3 +26,9 @@ KNN
 Model Selection: Evaluating all the models based on RMSE (Root Mean Square Error) and R-squared values.
 Pickle File: Selecting the model with the best RMSE score and R-squared value, and creating a pickle file using the pickle library.
 Webpage & Deployment: Developing a web application that collects user inputs and displays the output. The project is then deployed on the Heroku platform
+
+
+[Github Account](https://github.com)
+[vs code IDE](https://code.visualisation.com/)
+[HerokuAccount](https://heroku.com)
+
