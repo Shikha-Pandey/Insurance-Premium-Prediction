@@ -39,7 +39,7 @@ import pandas as pd
 import joblib
 
 # Load the trained model
-model = joblib.load('D:\DS Projects\insurance\insurance_pemium_mdl.pkl')
+model = joblib.load('\insurance_pemium_mdl.pkl')
 
 def predict(age, sex, bmi, children, smoker, region):
     # Create a DataFrame with the input features
