@@ -28,6 +28,11 @@ Pickle File: Selecting the model with the best RMSE score and R-squared value, a
 Webpage & Deployment: Developing a web application that collects user inputs and displays the output. The project is then deployed on the Heroku platform
 
 
+**Deployment Link:**
+https://predict-insurance2.onrender.com/
+
+
+
 [Github Account](https://github.com)
 [vs code IDE](https://code.visualisation.com/)
 [HerokuAccount](https://heroku.com)
