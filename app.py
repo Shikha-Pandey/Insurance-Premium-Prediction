@@ -8,7 +8,7 @@ app = Flask(__name__)
 file = open("insurance_pemium_mdl.pkl", 'rb')
 model = pickle.load(file)
 
-data = pd.read_csv('D:\DS Projects\insurance\insurance.csv')
+data = pd.read_csv('insurance.csv')
 data.head()
 
 @app.route('/')
