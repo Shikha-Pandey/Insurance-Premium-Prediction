@@ -27,7 +27,6 @@ Model Selection: Evaluating all the models based on RMSE (Root Mean Square Error
 Pickle File: Selecting the model with the best RMSE score and R-squared value, and creating a pickle file using the pickle library.
 Webpage & Deployment: Developing a web application that collects user inputs and displays the output. The project is then deployed on the Heroku platform
 
-
 **Deployment Link:**
 https://predict-insurance2.onrender.com/
 
