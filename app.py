@@ -5,7 +5,7 @@ import pickle
 app = Flask(__name__)
 
 
-file = open("D:\DS Projects\insurance\insurance_pemium_mdl.pkl", 'rb')
+file = open("insurance_pemium_mdl.pkl", 'rb')
 model = pickle.load(file)
 
 data = pd.read_csv('D:\DS Projects\insurance\insurance.csv')
