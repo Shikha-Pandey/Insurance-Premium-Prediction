@@ -16,7 +16,7 @@ def index():
     sex = sorted(data['sex'].unique())
     smoker = sorted(data['smoker'].unique())
     region = sorted(data['region'].unique())
-    return render_template('index.html', sex= sex, smoker= smoker, region= region)
+    return render_template('Templates\index.html', sex= sex, smoker= smoker, region= region)
 
 @app.route('/predict', methods=['POST'])
 def predict():
